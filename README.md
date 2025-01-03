@@ -22,4 +22,8 @@ Features:Two Modes (Client and Server):The program provides a menu to choose bet
 
 3. Broadcast Messaging:Messages sent by one client are broadcast to all other connected clients via the server.
 
+Output:![Server](https://github.com/user-attachments/assets/4a402e3d-d83e-43e1-a21a-0cc0306298d4)
+
+![Client](https://github.com/user-attachments/assets/0e8c122f-c7a3-4807-9498-2bed1dafc30e)
+
 
